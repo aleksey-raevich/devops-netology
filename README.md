@@ -52,3 +52,5 @@ override.tf.json
 terraform.rc
 
 01.06.2022 new line
+
+01.06.2022 new line from PyCharm
