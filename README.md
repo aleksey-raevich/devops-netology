@@ -1,4 +1,4 @@
-# ARaevich: devops-netology learning project
+# ARaevich: devops-netology learning projects
 
 # Описание директив в terraform/.gitignore
 
@@ -50,3 +50,5 @@ override.tf.json
 # игнорировать скрытые файлы .terraformrc и файлы terraform.rc
 .terraformrc
 terraform.rc
+
+01.06.2022 new line
